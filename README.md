@@ -1,1 +1,1 @@
-Simple Understanding of Generalized Ensemble / Stacking with Cross Validation [Click Here]( https://parijatkumar2003.github.io/parijatkumar.github.io/Generalized%20Ensemble-Stacking%20with%20Cross%20Validation.htm)
+Simple Understanding of Generalized Ensemble / Stacking with Cross Validation [Click Here](  https://parijatkumar2003.github.io/parijatkumar/Generalized%20Ensemble-Stacking%20with%20Cross%20Validation.htm)
